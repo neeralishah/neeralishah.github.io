@@ -20,5 +20,9 @@ styling rules
 
 interactivity to the site
 
+### ← assets
+
+images
+
 
 
