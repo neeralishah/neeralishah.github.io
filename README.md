@@ -13,7 +13,7 @@ Your Project
 
 ### ← README.md
 
-That's this file, where you can tell people what your cool website does and how you built it.
+Hi there! I've made my first personal website. You can explore it to learn more about me, and updates are always being pushed. Hope you like it :)
 
 ### ← index.html
 
