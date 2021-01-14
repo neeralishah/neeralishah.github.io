@@ -1,28 +1,37 @@
-Welcome to My Personal Website
-==============================
+Welcome to Glitch
+=================
+
+Click `Show` in the header to see your app live. Updates to your code will instantly deploy and update live.
+
+**Glitch** is the friendly community where you'll build the app of your dreams. Glitch lets you instantly create, remix, edit, and host an app, bot or site, and you can invite collaborators or helpers to simultaneously edit code with you.
+
+Find out more [about Glitch](https://glitch.com/about).
+
 
 Your Project
 ------------
 
 ### ← README.md
 
-Hi there! I've made my first personal website. You can explore it to learn more about me, and updates are always being pushed. Hope you like it :)
+That's this file, where you can tell people what your cool website does and how you built it.
 
 ### ← index.html
 
-content of the website
+Where you'll write the content of your website. 
 
 ### ← style.css
 
-styling rules 
+CSS files add styling rules to your content.
 
 ### ← script.js
 
-interactivity to the site
+If you're feeling fancy you can add interactivity to your site with JavaScript.
 
 ### ← assets
 
-images
+Drag in `assets`, like images or music, to add them to your project
 
+Made by [Glitch](https://glitch.com/)
+-------------------
 
-
+\ ゜o゜)ノ
