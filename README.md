@@ -1,8 +1,8 @@
 Welcome to my Personal Project
 ==============================
 
-Your Project
-------------
+Neerali Shah's Project
+----------------------
 
 ### ← index.html
 
